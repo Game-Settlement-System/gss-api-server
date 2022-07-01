@@ -1,0 +1,5 @@
+rootProject.name = 'gss-api-server'
+include 'common'
+include 'api'
+include 'admin'
+
